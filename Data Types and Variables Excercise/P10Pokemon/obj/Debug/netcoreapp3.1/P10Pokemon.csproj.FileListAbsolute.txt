@@ -1,0 +1,14 @@
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P10Pokemon\bin\Debug\netcoreapp3.1\P10Pokemon.exe
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P10Pokemon\bin\Debug\netcoreapp3.1\P10Pokemon.deps.json
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P10Pokemon\bin\Debug\netcoreapp3.1\P10Pokemon.runtimeconfig.json
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P10Pokemon\bin\Debug\netcoreapp3.1\P10Pokemon.runtimeconfig.dev.json
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P10Pokemon\bin\Debug\netcoreapp3.1\P10Pokemon.dll
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P10Pokemon\bin\Debug\netcoreapp3.1\P10Pokemon.pdb
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P10Pokemon\obj\Debug\netcoreapp3.1\P10Pokemon.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P10Pokemon\obj\Debug\netcoreapp3.1\P10Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P10Pokemon\obj\Debug\netcoreapp3.1\P10Pokemon.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P10Pokemon\obj\Debug\netcoreapp3.1\P10Pokemon.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P10Pokemon\obj\Debug\netcoreapp3.1\P10Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P10Pokemon\obj\Debug\netcoreapp3.1\P10Pokemon.dll
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P10Pokemon\obj\Debug\netcoreapp3.1\P10Pokemon.pdb
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P10Pokemon\obj\Debug\netcoreapp3.1\P10Pokemon.genruntimeconfig.cache

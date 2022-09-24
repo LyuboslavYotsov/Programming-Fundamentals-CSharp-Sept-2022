@@ -1,0 +1,14 @@
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P04SumOfChars\bin\Debug\netcoreapp3.1\P04SumOfChars.exe
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P04SumOfChars\bin\Debug\netcoreapp3.1\P04SumOfChars.deps.json
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P04SumOfChars\bin\Debug\netcoreapp3.1\P04SumOfChars.runtimeconfig.json
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P04SumOfChars\bin\Debug\netcoreapp3.1\P04SumOfChars.runtimeconfig.dev.json
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P04SumOfChars\bin\Debug\netcoreapp3.1\P04SumOfChars.dll
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P04SumOfChars\bin\Debug\netcoreapp3.1\P04SumOfChars.pdb
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P04SumOfChars\obj\Debug\netcoreapp3.1\P04SumOfChars.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P04SumOfChars\obj\Debug\netcoreapp3.1\P04SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P04SumOfChars\obj\Debug\netcoreapp3.1\P04SumOfChars.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P04SumOfChars\obj\Debug\netcoreapp3.1\P04SumOfChars.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P04SumOfChars\obj\Debug\netcoreapp3.1\P04SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P04SumOfChars\obj\Debug\netcoreapp3.1\P04SumOfChars.dll
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P04SumOfChars\obj\Debug\netcoreapp3.1\P04SumOfChars.pdb
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P04SumOfChars\obj\Debug\netcoreapp3.1\P04SumOfChars.genruntimeconfig.cache

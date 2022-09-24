@@ -1,0 +1,14 @@
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P07WaterOverflow\bin\Debug\netcoreapp3.1\P07WaterOverflow.exe
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P07WaterOverflow\bin\Debug\netcoreapp3.1\P07WaterOverflow.deps.json
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P07WaterOverflow\bin\Debug\netcoreapp3.1\P07WaterOverflow.runtimeconfig.json
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P07WaterOverflow\bin\Debug\netcoreapp3.1\P07WaterOverflow.runtimeconfig.dev.json
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P07WaterOverflow\bin\Debug\netcoreapp3.1\P07WaterOverflow.dll
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P07WaterOverflow\bin\Debug\netcoreapp3.1\P07WaterOverflow.pdb
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P07WaterOverflow\obj\Debug\netcoreapp3.1\P07WaterOverflow.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P07WaterOverflow\obj\Debug\netcoreapp3.1\P07WaterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P07WaterOverflow\obj\Debug\netcoreapp3.1\P07WaterOverflow.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P07WaterOverflow\obj\Debug\netcoreapp3.1\P07WaterOverflow.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P07WaterOverflow\obj\Debug\netcoreapp3.1\P07WaterOverflow.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P07WaterOverflow\obj\Debug\netcoreapp3.1\P07WaterOverflow.dll
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P07WaterOverflow\obj\Debug\netcoreapp3.1\P07WaterOverflow.pdb
+C:\Users\Luboslav\source\repos\DataTypesAndVariables-Excercise\P07WaterOverflow\obj\Debug\netcoreapp3.1\P07WaterOverflow.genruntimeconfig.cache
